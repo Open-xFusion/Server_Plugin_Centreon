@@ -16,6 +16,7 @@ II. Description
     
 III. Supported Software Version
 
+    Centreon 21.10.0     
     Centreon 3.4.6     
     Centreon 2.3.8      
     
